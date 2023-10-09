@@ -1,1 +1,1 @@
-# games-JavaScript
+Alguns pequenos testes realizado em JavaScript para desenvolvimento de games, que é uma das minhas paixões. Não é nada de complicado, apenas considerações iniciais sobre a linguagem e este tipo de desenvolvimento.
